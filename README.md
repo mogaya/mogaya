@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mogaya&icon=0&color=11)](https://#)
+[![](https://visitcount.itsvg.in/api?id=mogaya&icon=0&color=11)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
