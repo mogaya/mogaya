@@ -2,10 +2,10 @@
 💻 Software Engineer | Graphics Designer
 I code to solve real-world problems and design to make those solutions visually unforgettable.
 
-🤝 I’m open for collaboration and job offers – let’s build something impactful together.
-💬 Let’s Flutter our way into beautiful cross-platform apps.
-🎨 I blend clean code with visual storytelling - making sure what works also wows.
-⚡ Fun fact: When I'm not running code, I'm running marathons.
+🤝 I’m open for collaboration and job offers – let’s build something impactful together.</br>
+💬 Let’s Flutter our way into beautiful cross-platform apps.</br>
+🎨 I blend clean code with visual storytelling - making sure what works also wows.</br>
+⚡ Fun fact: When I'm not running code, I'm running marathons.</br>
 
 
 ## 🌐 Socials:
