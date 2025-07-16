@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer | Graphics Designer
+💻 **Software Engineer | Graphics Designer**</br>
 I code to solve real-world problems and design to make those solutions visually unforgettable.
 
 🤝 I’m open for collaboration and job offers – let’s build something impactful together.</br>
