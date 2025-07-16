@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 **Software Engineer | Graphics Designer**</br>
 I code to solve real-world problems and design to make those solutions visually unforgettable.
 
